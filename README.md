@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m Mobile application developer(Dart/flutter and java)
+- 🧑‍💻 I’m Mobile application developer(Dart/flutter and java)
 - 💻 I’m currently working on Flutter projects
-- 🌱 I’m learning dart backend too
-- 👯 I’m looking to collaborate on international companies and organizations
+- 🌱 I’m learning dart backend
+- 🫱🏼‍🫲🏽 I’m looking to collaborate on international companies and organizations
 - 💬 Ask me about programming and system development
-- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/reza-mojed-gharamaleki-087aa337/) 
+- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/reza-mojed-gharamaleki-087aa337/)
+
 
 <!--
 **AltayTech/altaytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
