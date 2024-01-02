@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 I’m Mobile application developer(Dart/flutter and java)
+- 🧑‍💻 I’m Mobile, Web and widows application developer(Dart/flutter and java)
 - 💻 I’m currently working on Flutter projects
 - 🌱 I’m learning dart backend
 - 🫱🏼‍🫲🏽 I’m looking to collaborate on international companies and organizations
