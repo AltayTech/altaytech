@@ -1,13 +1,3 @@
-### Hi there 👋
-
-- 🧑‍💻 I’m Mobile, Web and widows application developer(Dart/flutter and java)
-- 💻 I’m currently working on Flutter projects
-- 🌱 I’m learning dart backend
-- 🫱🏼‍🫲🏽 I’m looking to collaborate on international companies and organizations
-- 💬 Ask me about programming and system development
-- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/reza-mojed-gharamaleki-087aa337/)
-
-
 # 💫 About Me:
 Hi there 👋<br>🧑‍💻 I’m Mobile, Web and widows application developer(Dart/flutter and java)<br>💻 I’m currently working on Flutter projects<br>🌱 I’m learning dart backend<br>🫱🏼‍🫲🏽 I’m looking to collaborate on international companies and organizations<br>💬 Ask me about programming and system development<br>📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/reza-mojed-gharamaleki-087aa337/)
 
